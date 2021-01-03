@@ -1,0 +1,89 @@
+Color #10 = noir-noir
+Color #11 = rouge-noir
+Color #12 = vert-noir
+Color #13 = jaune-noir
+Color #14 = bleu-noir
+Color #15 = magenta-noir
+Color #16 = cyan-noir
+Color #17 = blanc-noir
+Color #18 = noir-rouge
+Color #19 = rouge-rouge
+Color #20 = vert-rouge
+Color #21 = jaune-rouge
+Color #22 = bleu-rouge
+Color #23 = magenta-rouge
+Color #24 = cyan-rouge
+Color #25 = blanc-rouge
+Color #26 = noir-vert
+Color #27 = rouge-vert
+Color #28 = vert-vert
+Color #29 = jaune-vert
+Color #30 = bleu-vert
+Color #31 = magenta-vert
+Color #32 = cyan-vert
+Color #33 = blanc-vert
+Color #34 = noir-jaune
+Color #35 = rouge-jaune
+Color #36 = vert-jaune
+Color #37 = jaune-jaune
+Color #38 = bleu-jaune
+Color #39 = magenta-jaune
+Color #40 = cyan-jaune
+Color #41 = blanc-jaune
+Color #42 = noir-bleu
+Color #43 = rouge-bleu
+Color #44 = vert-bleu
+Color #45 = jaune-bleu
+Color #46 = bleu-bleu
+Color #47 = magenta-bleu
+Color #48 = cyan-bleu
+Color #49 = blanc-bleu
+Color #50 = noir-magenta
+Color #51 = rouge-magenta
+Color #52 = vert-magenta
+Color #53 = jaune-magenta
+Color #54 = bleu-magenta
+Color #55 = magenta-magenta
+Color #56 = cyan-magenta
+Color #57 = blanc-magenta
+Color #58 = noir-cyan
+Color #59 = rouge-cyan
+Color #60 = vert-cyan
+Color #61 = jaune-cyan
+Color #62 = bleu-cyan
+Color #63 = magenta-cyan
+Color #64 = cyan-cyan
+Color #65 = blanc-cyan
+Color #66 = noir-blanc
+Color #67 = rouge-blanc
+Color #68 = vert-blanc
+Color #69 = jaune-blanc
+Color #70 = bleu-blanc
+Color #71 = magenta-blanc
+Color #72 = cyan-blanc
+Color #73 = blanc-blanc
+Room count: 5
+
+Attach room 0 to room 1...
+	 Room 0: 8, 14
+	 Room 1: 42, 21
+
+
+
+Attach room 1 to room 2...
+	 Room 1: 42, 21
+	 Room 2: 32, 20
+
+
+
+Attach room 2 to room 3...
+	 Room 2: 32, 20
+	 Room 3: 73, 16
+
+
+
+Attach room 3 to room 4...
+	 Room 3: 73, 16
+	 Room 4: 38, 11
+
+

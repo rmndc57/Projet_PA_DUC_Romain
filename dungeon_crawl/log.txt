@@ -1,0 +1,107 @@
+Color #10 = black-black
+Color #11 = red-black
+Color #12 = green-black
+Color #13 = yellow-black
+Color #14 = blue-black
+Color #15 = magenta-black
+Color #16 = cyan-black
+Color #17 = white-black
+Color #18 = black-red
+Color #19 = red-red
+Color #20 = green-red
+Color #21 = yellow-red
+Color #22 = blue-red
+Color #23 = magenta-red
+Color #24 = cyan-red
+Color #25 = white-red
+Color #26 = black-green
+Color #27 = red-green
+Color #28 = green-green
+Color #29 = yellow-green
+Color #30 = blue-green
+Color #31 = magenta-green
+Color #32 = cyan-green
+Color #33 = white-green
+Color #34 = black-yellow
+Color #35 = red-yellow
+Color #36 = green-yellow
+Color #37 = yellow-yellow
+Color #38 = blue-yellow
+Color #39 = magenta-yellow
+Color #40 = cyan-yellow
+Color #41 = white-yellow
+Color #42 = black-blue
+Color #43 = red-blue
+Color #44 = green-blue
+Color #45 = yellow-blue
+Color #46 = blue-blue
+Color #47 = magenta-blue
+Color #48 = cyan-blue
+Color #49 = white-blue
+Color #50 = black-magenta
+Color #51 = red-magenta
+Color #52 = green-magenta
+Color #53 = yellow-magenta
+Color #54 = blue-magenta
+Color #55 = magenta-magenta
+Color #56 = cyan-magenta
+Color #57 = white-magenta
+Color #58 = black-cyan
+Color #59 = red-cyan
+Color #60 = green-cyan
+Color #61 = yellow-cyan
+Color #62 = blue-cyan
+Color #63 = magenta-cyan
+Color #64 = cyan-cyan
+Color #65 = white-cyan
+Color #66 = black-white
+Color #67 = red-white
+Color #68 = green-white
+Color #69 = yellow-white
+Color #70 = blue-white
+Color #71 = magenta-white
+Color #72 = cyan-white
+Color #73 = white-white
+Room count: 8
+
+Attach room 0 to room 1...
+	 Room 0: 4, 4
+	 Room 1: 53, 14
+
+
+
+Attach room 1 to room 2...
+	 Room 1: 53, 14
+	 Room 2: 41, 7
+
+
+
+Attach room 2 to room 3...
+	 Room 2: 41, 7
+	 Room 3: 56, 13
+
+
+
+Attach room 3 to room 4...
+	 Room 3: 56, 13
+	 Room 4: 52, 3
+
+
+
+Attach room 4 to room 5...
+	 Room 4: 52, 3
+	 Room 5: 60, 4
+
+
+
+Attach room 5 to room 6...
+	 Room 5: 60, 4
+	 Room 6: 63, 16
+
+
+
+Attach room 6 to room 7...
+	 Room 6: 63, 16
+	 Room 7: 43, 21
+
+
