@@ -146,7 +146,7 @@ public:
             int x = randint( m_rooms[whichRoom].x, m_rooms[whichRoom].x + m_rooms[whichRoom].expandX );
             int y = randint( m_rooms[whichRoom].y, m_rooms[whichRoom].y + m_rooms[whichRoom].expandY );
 
-            m_tiles[x][y].Setup( "&", m_rockColorCode );
+            m_tiles[x][y].Setup( "@", m_rockColorCode );
         }
     }
 
