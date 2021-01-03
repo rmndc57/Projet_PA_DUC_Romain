@@ -8,6 +8,7 @@ Le but du jeu est de recuperer les differents elements (charbon, or, argent, fer
 
 ## Langages et librairies
 Le programme est exclusivement développé en C++ avec la librairie ncurses (qu'il convient d'installer). 
+le fichier important se trouve dans : /usr/include/ncursesw  (ncurses.h)
 ```
 sudo apt-get install libncurses5-dev libncursesw5-dev
 ```
