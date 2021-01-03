@@ -53,5 +53,5 @@ clean_release:
 	rm -rf bin
 	rm -rf $(OBJDIR_RELEASE)
 
-.PHONY: before_debug after_debug clean_debug before_release after_release clean_release
+.PHONY: before_release after_release clean_release
 
